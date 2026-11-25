@@ -3,17 +3,18 @@ PROCESSO Nº 0014264-67.2014.8.24.0008/SC
 OLINDO SCARDUELI E CECÍLIA SCARDUELI x CELESC DISTRIBUIÇÃO S.A.
 
 ATENÇÃO — CONFERÊNCIAS OBRIGATÓRIAS ANTES DO PROTOCOLO
-Esta é uma minuta estruturada com base nos acórdãos e no contrato de parceria transcritos nos documentos disponíveis. O arquivo DOCX integral do processo (22 MB) e o caso análogo não puderam ser lidos integralmente nesta etapa. Por isso, os campos entre colchetes precisam ser completados com consulta ao eproc e aos documentos originais. Não protocolar sem:
-(a) confirmar a certidão de trânsito em julgado, sua data e o evento correspondente;
-(b) confirmar a vara de origem e a situação atual dos autos;
-(c) obter a data exata da citação e a data exata da instalação dos postes, conforme prova do processo;
-(d) conferir o dispositivo integral dos acórdãos e eventual decisão posterior;
-(e) conferir matrícula, endereço, área, planta e identificação cadastral do imóvel;
-(f) conferir se o contrato direto de honorários de 23/04/2026 foi efetivamente assinado;
-(g) ler a notificação extrajudicial e o comprovante de entrega antes de afirmar seu conteúdo;
-(h) examinar o caso análogo antes de citá-lo como precedente.
+A minuta foi revista à luz dos PDFs do processo originário (488 páginas) e da apelação (255 páginas), inclusive do laudo do evento 84 e das decisões do STJ juntadas ao processo recursal. O trânsito em julgado está comprovado pela certidão do STJ: a decisão que rejeitou os embargos de declaração transitou em julgado em 24/10/2025, com baixa ao TJSC (processo recursal, evento 109, CERTTRAN25; anotação de baixa definitiva no TJSC em 30/10/2025, evento 111). A origem é a 3ª Vara Cível da Comarca de Blumenau.
+Antes do protocolo, ainda é indispensável:
+(a) obter a data efetiva de recebimento da citação pela Celesc: o evento 16 registra AR cumprido e juntado em 22/08/2014, mas a cópia disponibilizada não contém a imagem do AR com a data da entrega;
+(b) resolver documentalmente a data da instalação: o laudo do evento 84 não a determinou tecnicamente, delimitando-a entre maio/2008 e março/2012; registra dezembro/2010 apenas como relato de terceira pessoa;
+(c) conferir matrícula atualizada, área atual, cadastro municipal, planta e identificação do imóvel;
+(d) conferir procuração atualizada e os originais assinados dos contratos de honorários, especialmente o contrato direto de 23/04/2026;
+(e) conferir a íntegra do Decreto Municipal nº 8.830/2008 e documentos atuais do tombamento;
+(f) examinar a notificação extrajudicial e o comprovante de entrega antes de juntá-los;
+(g) não utilizar o caso análogo como precedente sem exame integral.
+Não atribuir à Celesc a perda de 2.541,00 m² mencionada no laudo: o perito a relacionou ao projeto de retificação de área de 2009, não à implantação dos postes.
 
-EXCELENTÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DE DIREITO DA [INDICAR VARA] VARA CÍVEL DA COMARCA DE BLUMENAU – SANTA CATARINA
+EXCELENTÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DE DIREITO DA 3ª VARA CÍVEL DA COMARCA DE BLUMENAU – SANTA CATARINA
 
 Processo nº 0014264-67.2014.8.24.0008/SC
 
@@ -37,7 +38,7 @@ I. DO TÍTULO JUDICIAL E DA NECESSIDADE DE LIQUIDAÇÃO
    a) correção monetária pelo INPC, a partir da data de instalação dos postes no imóvel dos autores; e
    b) juros de mora de 1% (um por cento) ao mês, a partir da citação.
 
-6. Conforme certidão de trânsito em julgado a ser indicada e juntada com esta petição, o título judicial tornou-se definitivo em [DATA DO TRÂNSITO EM JULGADO — CONFERIR CERTIDÃO E EVENTO]. A presente fase não pretende rediscutir a responsabilidade da concessionária, a conversão da obrigação em perdas e danos ou os critérios jurídicos já decididos, mas exclusivamente quantificar a obrigação reconhecida no título.
+6. A decisão proferida pelo Ministro Antonio Carlos Ferreira nos embargos de declaração no REsp nº 2.189.797/SC foi publicada em 02/10/2025 e transitou em julgado em 24/10/2025, conforme certidão de trânsito e termo de baixa juntados no processo recursal (evento 109, CERTTRAN25). Os autos foram baixados ao Tribunal de Justiça de Santa Catarina, tendo sido anotada a baixa definitiva em 30/10/2025 (evento 111). A presente fase não pretende rediscutir a responsabilidade da concessionária, a conversão da obrigação em perdas e danos ou os critérios jurídicos já decididos, mas exclusivamente quantificar a obrigação reconhecida no título.
 
 7. O título é ilíquido porque não estabeleceu valor nominal para a indenização, remetendo expressamente sua quantificação à fase de liquidação. A apuração depende de conhecimento técnico especializado, especialmente para determinar o impacto econômico da ocupação e da intervenção sobre o imóvel e sobre a área remanescente. É, portanto, adequada a liquidação por arbitramento, nos termos dos arts. 509, I, e 510 do CPC.
 
@@ -83,9 +84,11 @@ IV. DO PROCEDIMENTO E DA PROVA TÉCNICA
    a) situação contrafactual do imóvel sem a intervenção da Celesc, consideradas as características físicas, localização, padrão construtivo, tombamento, legislação urbanística e condições de mercado pertinentes; e
    b) situação real do imóvel com a presença das estruturas e as limitações que delas decorram.
 
-24. A comparação deverá observar uma mesma data-base de avaliação, ou datas tecnicamente ajustadas, para isolar o efeito da intervenção e evitar que oscilações gerais do mercado imobiliário sejam confundidas com desvalorização causada pela requerida. O perito deverá explicitar o método empregado e, se necessário, apresentar avaliações em data-base histórica e atualização monetária posterior, de modo compatível com o título e sem duplicidade de correção.
+24. A data-base principal da avaliação deverá corresponder à época da instalação das estruturas, pois o título determinou correção monetária pelo INPC desde esse marco. Se a data exata não puder ser inicialmente estabelecida, o perito deverá apresentar avaliação retrospectiva para o intervalo tecnicamente demonstrado, explicitar as premissas e, se necessário, apresentar cenários para as datas plausíveis, sem escolher arbitrariamente um marco. A avaliação deverá comparar, na mesma data-base, o valor provável do imóvel sem a intervenção e o valor provável com a intervenção, isolando o efeito imputável à Celesc. A apresentação de valor em data atual poderá ser feita apenas como informação complementar, com metodologia que impeça cumulação de atualização de mercado com o INPC determinado no título.
 
-25. Para a correta avaliação, requer-se que a Celesc seja intimada a apresentar, caso ainda não estejam nos autos:
+25. O laudo judicial do evento 84 (Laudo Pericial nº 059/2018, encerrado em 13/07/2018) já identificou os postes BSO-08 e BSO-09, cabos de sustentação, ancoragens e parte dos condutores dentro dos limites da propriedade. Também registrou que não localizou projeto de instalação nem documentação de autorização dos proprietários. Contudo, não quantificou o valor da área afetada nem a desvalorização econômica do imóvel. A nova perícia deverá aproveitar os levantamentos, plantas, fotografias e constatações daquele trabalho, sem tratar como ainda controvertidos os fatos já comprovados nos autos.
+
+26. Para a correta avaliação, requer-se que a Celesc seja intimada a apresentar, caso ainda não estejam nos autos:
    a) projeto, croqui, planta ou levantamento da implantação dos postes e estruturas;
    b) coordenadas, dimensões, especificações e identificação dos postes, bases, ancoragens, cabos e demais equipamentos instalados no imóvel;
    c) ordens de serviço, registros de execução e documentos que indiquem a data efetiva de instalação;
@@ -94,19 +97,19 @@ IV. DO PROCEDIMENTO E DA PROVA TÉCNICA
    f) registros de manutenção, substituição ou alteração das estruturas desde a instalação, com indicação das respectivas datas;
    g) outros documentos técnicos sob sua guarda que sejam relevantes para a delimitação da ocupação e de seus efeitos sobre o imóvel.
 
-26. A documentação deverá ser apresentada sem prejuízo da distribuição do ônus probatório e dos poderes instrutórios do Juízo. Os autores não pretendem transferir à requerida o encargo de produzir a avaliação de seu próprio prejuízo, mas obter os dados técnicos que se encontram sob disponibilidade da concessionária e que são necessários para a perícia.
+27. A documentação deverá ser apresentada sem prejuízo da distribuição do ônus probatório e dos poderes instrutórios do Juízo. Os autores não pretendem transferir à requerida o encargo de produzir a avaliação de seu próprio prejuízo, mas obter os dados técnicos que se encontram sob disponibilidade da concessionária e que são necessários para a perícia. Em especial, a data de implantação deve ser esclarecida pela documentação operacional da própria concessionária. Se houver recusa injustificada de exibição de documento individualizado e relevante, requer-se a aplicação das consequências processuais previstas nos arts. 396 a 400 do CPC, após contraditório.
 
 V. DOS QUESITOS INICIAIS
 
-27. Para orientar a prova técnica, os autores apresentam desde logo os seguintes quesitos, sem prejuízo de complementação após a nomeação do perito e a apresentação dos documentos pela requerida:
+28. Para orientar a prova técnica, os autores apresentam desde logo os seguintes quesitos, sem prejuízo de complementação após a nomeação do perito e a apresentação dos documentos pela requerida:
 
-1) Identifique o imóvel objeto da demanda, sua matrícula, localização, área total, limites, características físicas, benfeitorias e padrão construtivo, conforme documentos disponíveis e vistoria.
+1) Identifique o imóvel objeto da demanda, sua matrícula nº 36.712 do 2º Registro de Imóveis de Blumenau (conforme identificação constante do laudo do evento 84), localização, área atual, limites, características físicas, benfeitorias e padrão construtivo, conforme documentos disponíveis e vistoria. Esclareça eventuais divergências entre matrícula, projeto de retificação e cadastro municipal.
 
 2) Confirme a existência do tombamento municipal e identifique o ato administrativo correspondente, bem como as restrições de proteção patrimonial e urbanística relevantes para a avaliação.
 
 3) Identifique e localize, em planta ou levantamento georreferenciado, os dois postes referidos no título e todas as estruturas correlatas existentes no imóvel, inclusive bases, cabos de sustentação, ancoragens, condutores e áreas necessárias para acesso e manutenção.
 
-4) Qual é a área efetivamente ocupada pelas bases e estruturas? Qual é a área submetida a restrições de uso, circulação, construção, paisagismo ou aproveitamento em razão da presença dos equipamentos?
+4) Qual é a área efetivamente ocupada pelas bases e estruturas? Qual é a área submetida a restrições de uso, circulação, construção, paisagismo ou aproveitamento em razão da presença dos equipamentos? Diferencie a ocupação física das áreas de influência ou restrição, justificando tecnicamente cada delimitação.
 
 5) A presença das estruturas reduz a área efetivamente disponível ou aproveitável pelos proprietários? Em caso positivo, quantifique e explique tecnicamente a redução.
 
@@ -116,9 +119,9 @@ V. DOS QUESITOS INICIAIS
 
 8) Consideradas as normas de proteção do patrimônio cultural e as características específicas do imóvel, a presença dos postes e estruturas produz restrições ou repercussões econômicas adicionais? Quais, e com que fundamento técnico?
 
-9) É possível estimar o valor de mercado do imóvel em cenário tecnicamente comparável sem a intervenção objeto da demanda e o valor de mercado do imóvel na situação atual, com a intervenção? Indique a metodologia, a data-base e as fontes utilizadas.
+9) É possível estimar retrospectivamente o valor de mercado do imóvel, na data da instalação, em cenário tecnicamente comparável sem a intervenção objeto da demanda e com a intervenção? Indique a metodologia, a data-base e as fontes utilizadas. Se a data exata de instalação não puder ser definida, apresente cenários para os marcos temporais tecnicamente possíveis.
 
-10) Qual a diferença de valor atribuível especificamente à intervenção da Celesc, isolando, tanto quanto possível, fatores externos e variações gerais do mercado imobiliário?
+10) Qual a diferença de valor atribuível especificamente à intervenção da Celesc, isolando, tanto quanto possível, fatores externos, alterações urbanísticas independentes, retificação de área, projeto de alargamento viário e variações gerais do mercado imobiliário?
 
 11) Qual o valor econômico da parcela diretamente ocupada ou tornada indisponível pelas estruturas, caso esse componente possa ser estimado autonomamente sem duplicar a depreciação global?
 
@@ -140,50 +143,56 @@ V. DOS QUESITOS INICIAIS
 
 20) Informe se há necessidade de documentação complementar, levantamento topográfico, avaliação especializada ou apoio de profissional de patrimônio cultural para conclusão segura do trabalho.
 
+21) O laudo do evento 84 registrou que o imóvel perdeu 2.541,00 m² em comparação com o título de origem, em razão do projeto de retificação aprovado em 2009, e também apontou projeto de alargamento da Rua Rodolfo Engelhardt. É possível separar essas circunstâncias preexistentes ou independentes da ocupação pelas estruturas da Celesc? Confirme que tais áreas não serão computadas como dano causado pela requerida, salvo demonstração técnica e jurídica específica de nexo causal.
+
+22) O laudo do evento 84 também identificou escada utilizada como servidão de acesso de pedestres e cercas deslocadas cerca de quatro metros para dentro dos limites documentais. Esclareça se tais circunstâncias interferem na avaliação e se são independentes da implantação dos postes. Não atribua à Celesc seus efeitos econômicos sem prova de nexo causal.
+
+23) O perito consegue identificar, por documentos técnicos, ordens de serviço, imagens aéreas, registros de manutenção ou outros elementos objetivos, a data ou intervalo mais provável da instalação? Indique o grau de precisão e as limitações da conclusão.
+
 VI. DOS CONSECTÁRIOS LEGAIS FIXADOS NO TÍTULO
 
-28. O acórdão dos embargos de declaração integrou o título para estabelecer expressamente os consectários incidentes sobre a indenização por perdas e danos: correção monetária pelo INPC desde a data de instalação dos postes e juros de mora de 1% ao mês desde a citação.
+29. O acórdão dos embargos de declaração integrou o título para estabelecer expressamente os consectários incidentes sobre a indenização por perdas e danos: correção monetária pelo INPC desde a data de instalação dos postes e juros de mora de 1% ao mês desde a citação.
 
-29. Tais critérios devem ser observados na apuração, por constituírem comando expresso do título judicial. A data de instalação deverá ser identificada com precisão a partir da prova dos autos, sem adoção automática de data aproximada. A transcrição do acórdão registra janeiro de 2011 como mês de instalação, mas a data exata deverá ser conferida no laudo pericial e nos documentos originários.
+30. Tais critérios devem ser observados na apuração, por constituírem comando expresso do título judicial. O laudo do evento 84 (itens 6.3.2 e 6.3.3) não determinou tecnicamente o dia ou mês da instalação: limitou-se ao intervalo entre maio/2008 e março/2012, registrando dezembro/2010 como relato de Elenir Maria Scardueli Gurgel. Assim, a data não pode ser apresentada como tecnicamente comprovada em dezembro/2010. Deve-se requisitar à Celesc os registros de implantação e, se a precisão continuar impossível, submeter ao Juízo a definição do marco com base no conjunto probatório, inclusive mediante cenários periciais, sem prejuízo da aplicação do INPC desde o marco que vier a ser judicialmente fixado.
 
-30. A data da citação também deverá ser extraída da certidão ou do ato processual correspondente no eproc: [DATA DA CITAÇÃO — CONFERIR EVENTO].
+31. A citação ocorreu por carta, com aviso de recebimento cujo evento 16 foi juntado em 22/08/2014 e está registrado como “cumprido”, tendo como destinatária a Celesc Distribuição S.A. A data de juntada não se confunde necessariamente com a data de entrega. A imagem do AR com a data do recebimento não consta da cópia do PDF disponibilizada para esta análise. Deve ser obtida no eproc ou junto ao arquivo físico/digital de origem antes de fechar a memória de cálculo: [DATA EFETIVA DO RECEBIMENTO].
 
-31. A perícia deverá apresentar o valor-base da indenização e discriminar os parâmetros necessários à posterior atualização, evitando aplicar correção ou juros em duplicidade. A memória de cálculo final deverá respeitar o INPC desde o termo inicial definido no título e juros de mora de 1% ao mês desde a citação, observada a metodologia de cálculo judicial e o período efetivamente aplicável.
+32. A perícia deverá apresentar o valor-base da indenização na data-base histórica definida para a instalação (ou em cenários retrospectivos, se necessário) e discriminar os parâmetros necessários à posterior atualização, evitando aplicar correção ou juros em duplicidade. A memória de cálculo final deverá respeitar o INPC desde o termo inicial definido no título e juros de mora de 1% ao mês desde a data efetiva da citação, observada a metodologia de cálculo judicial e o período efetivamente aplicável.
 
 VII. DA REPRESENTAÇÃO PROCESSUAL E DA DOCUMENTAÇÃO CONTRATUAL DE HONORÁRIOS
 
-32. Os requerentes são representados nesta fase por THIAGO DA SILVA GEISLER, advogado inscrito na OAB/SC sob nº 36.983, conforme procuração específica a ser juntada/confirmada nos autos.
+33. Os requerentes são representados nesta fase por THIAGO DA SILVA GEISLER, advogado inscrito na OAB/SC sob nº 36.983, conforme procuração específica a ser juntada/confirmada nos autos.
 
-33. A atuação profissional do atual patrono no capítulo de perdas e danos decorre de instrumento particular de parceria firmado em 21 de fevereiro de 2022 entre a advogada Daiane Pedroso da Silva, OAB/SC 42.489, Thiago da Silva Geisler, OAB/SC 36.983, e os próprios autores Olindo Scardueli e Cecília Scardueli.
+34. A atuação profissional do atual patrono no capítulo de perdas e danos decorre de instrumento particular de parceria firmado em 21 de fevereiro de 2022 entre a advogada Daiane Pedroso da Silva, OAB/SC 42.489, Thiago da Silva Geisler, OAB/SC 36.983, e os próprios autores Olindo Scardueli e Cecília Scardueli.
 
-34. O instrumento de parceria delimitou expressamente as atribuições de cada profissional. Ao segundo parceiro, Thiago, coube interpor recurso de apelação para converter o pedido de remoção dos postes e cabos de sustentação em indenização por perdas e danos, bem como atuar nos trabalhos relativos ao cumprimento de sentença desse capítulo. À primeira parceira, Daiane, coube apresentar contrarrazões ao recurso da Celesc e atuar na defesa da condenação por danos morais.
+35. O instrumento de parceria delimitou expressamente as atribuições de cada profissional. Ao segundo parceiro, Thiago, coube interpor recurso de apelação para converter o pedido de remoção dos postes e cabos de sustentação em indenização por perdas e danos, bem como atuar nos trabalhos relativos ao cumprimento de sentença desse capítulo. À primeira parceira, Daiane, coube apresentar contrarrazões ao recurso da Celesc e atuar na defesa da condenação por danos morais.
 
-35. A cláusula 7 do instrumento delimitou o contrato de honorários anterior, de 15%, celebrado entre a primeira parceira e os autores, ao capítulo dos danos morais, excluindo expressamente eventual êxito no pedido de conversão em perdas e danos formulado por meio da apelação do segundo parceiro.
+36. A cláusula 7 do instrumento delimitou o contrato de honorários anterior, de 15%, celebrado entre a primeira parceira e os autores, ao capítulo dos danos morais, excluindo expressamente eventual êxito no pedido de conversão em perdas e danos formulado por meio da apelação do segundo parceiro.
 
-36. A cláusula 8 estabeleceu que pertencem exclusivamente ao segundo parceiro os honorários convencionais de 20% sobre os recursos financeiros obtidos com o êxito do pedido de conversão em perdas e danos do pedido de retirada dos postes e cabos de sustentação.
+37. A cláusula 8 estabeleceu que pertencem exclusivamente ao segundo parceiro os honorários convencionais de 20% sobre os recursos financeiros obtidos com o êxito do pedido de conversão em perdas e danos do pedido de retirada dos postes e cabos de sustentação.
 
-37. O resultado do julgamento recursal reconheceu justamente o direito à indenização por danos materiais decorrente da conversão da obrigação de fazer em perdas e danos, remetendo sua quantificação à liquidação. O capítulo dos danos morais, por sua vez, foi afastado pelo Tribunal.
+38. O resultado do julgamento recursal reconheceu justamente o direito à indenização por danos materiais decorrente da conversão da obrigação de fazer em perdas e danos, remetendo sua quantificação à liquidação. O capítulo dos danos morais, por sua vez, foi afastado pelo Tribunal.
 
-38. Os autores apresentam o instrumento de parceria para demonstrar a origem e a delimitação da contratação profissional, sem confundir:
+39. Os autores apresentam o instrumento de parceria para demonstrar a origem e a delimitação da contratação profissional, sem confundir:
    a) o crédito indenizatório pertencente aos autores, devido pela Celesc;
    b) os honorários contratuais de 20%, devidos pelos autores ao advogado Thiago, conforme o instrumento firmado; e
    c) os honorários sucumbenciais, cuja titularidade decorre da lei, do título judicial e dos ajustes profissionais aplicáveis.
 
-39. A verba contratual não integra o valor da condenação a ser liquidada contra a Celesc. Trata-se de obrigação contratual dos constituintes. O pedido de destaque, se formulado, deverá observar o art. 22, § 4º, da Lei nº 8.906/1994, mediante apresentação do contrato pertinente antes da expedição do mandado de levantamento ou precatório, salvo prova de pagamento.
+40. A verba contratual não integra o valor da condenação a ser liquidada contra a Celesc. Trata-se de obrigação contratual dos constituintes. O pedido de destaque, se formulado, deverá observar o art. 22, § 4º, da Lei nº 8.906/1994, mediante apresentação do contrato pertinente antes da expedição do mandado de levantamento ou precatório, salvo prova de pagamento.
 
-40. [MANTER ESTE PARÁGRAFO SOMENTE SE O CONTRATO DIRETO DE 23/04/2026 ESTIVER ASSINADO POR TODOS OS CONTRATANTES E SUA INTEGRIDADE TIVER SIDO CONFERIDA:] Além do instrumento de parceria, os autores e o advogado firmaram contrato direto de honorários em 23 de abril de 2026, pelo qual os constituintes reafirmaram a contratação dos serviços de liquidação e cumprimento de sentença e a remuneração de 20% sobre o valor bruto efetivamente recebido a título de indenização por danos materiais, com autorização para destaque no momento do levantamento, nos termos do instrumento anexado.
+41. [MANTER ESTE PARÁGRAFO SOMENTE SE O CONTRATO DIRETO DE 23/04/2026 ESTIVER ASSINADO POR TODOS OS CONTRATANTES E SUA INTEGRIDADE TIVER SIDO CONFERIDA:] Além do instrumento de parceria, os autores e o advogado firmaram contrato direto de honorários em 23 de abril de 2026, pelo qual os constituintes reafirmaram a contratação dos serviços de liquidação e cumprimento de sentença e a remuneração de 20% sobre o valor bruto efetivamente recebido a título de indenização por danos materiais, com autorização para destaque no momento do levantamento, nos termos do instrumento anexado.
 
-41. Requer-se que o contrato de honorários seja recebido e juntado, para os fins do art. 22, § 4º, da Lei nº 8.906/1994, reservando-se a análise do destaque para o momento oportuno, quando houver crédito liquidado e possibilidade de pagamento, sem interferir na definição do valor devido pela requerida aos autores.
+42. Requer-se que o contrato de honorários seja recebido e juntado, para os fins do art. 22, § 4º, da Lei nº 8.906/1994, reservando-se a análise do destaque para o momento oportuno, quando houver crédito liquidado e possibilidade de pagamento, sem interferir na definição do valor devido pela requerida aos autores.
 
-42. A notificação extrajudicial encaminhada à advogada anterior não é fundamento constitutivo do crédito indenizatório nem altera o título judicial. Caso seja juntada, sua finalidade será exclusivamente documentar a comunicação entre os profissionais acerca da delimitação contratual, devendo ser acompanhada do comprovante de envio e recebimento. Os autores não pretendem atribuir à notificação efeito de concordância, renúncia ou quitação que não esteja expressamente comprovado.
+43. A notificação extrajudicial encaminhada à advogada anterior não é fundamento constitutivo do crédito indenizatório nem altera o título judicial. Caso seja juntada, sua finalidade será exclusivamente documentar a comunicação entre os profissionais acerca da delimitação contratual, devendo ser acompanhada do comprovante de envio e recebimento. Os autores não pretendem atribuir à notificação efeito de concordância, renúncia ou quitação que não esteja expressamente comprovado.
 
 VIII. DA SUCUMBÊNCIA FIXADA NO ACÓRDÃO
 
-43. O acórdão redistribuiu os ônus sucumbenciais em razão do afastamento dos danos morais e do acolhimento do pedido de conversão em perdas e danos. Fixou sucumbência recíproca, atribuindo 50% das despesas processuais a cada parte, e honorários advocatícios em 20% sobre o valor atualizado da condenação, observados os percentuais de sucumbência estabelecidos para cada litigante.
+44. O acórdão redistribuiu os ônus sucumbenciais em razão do afastamento dos danos morais e do acolhimento do pedido de conversão em perdas e danos. Fixou sucumbência recíproca, atribuindo 50% das despesas processuais a cada parte, e honorários advocatícios em 20% sobre o valor atualizado da condenação, observados os percentuais de sucumbência estabelecidos para cada litigante.
 
-44. O acórdão dos embargos manteve esse entendimento e consignou a suspensão da exigibilidade da verba sucumbencial atribuída aos autores, em razão da gratuidade da justiça, nos termos do art. 98, § 3º, do CPC.
+45. O acórdão dos embargos manteve esse entendimento e consignou a suspensão da exigibilidade da verba sucumbencial atribuída aos autores, em razão da gratuidade da justiça, nos termos do art. 98, § 3º, do CPC.
 
-45. A presente liquidação tem por objeto quantificar a indenização material. Não se requer, nesta oportunidade, alteração da distribuição da sucumbência ou rediscussão da titularidade dos honorários sucumbenciais. A identificação do beneficiário e a quantificação de eventual verba sucumbencial deverão observar o título integral, a atuação profissional e o instrumento de parceria, sem presumir que honorários contratuais e sucumbenciais sejam a mesma verba.
+46. A presente liquidação tem por objeto quantificar a indenização material. Não se requer, nesta oportunidade, alteração da distribuição da sucumbência ou rediscussão da titularidade dos honorários sucumbenciais. A identificação do beneficiário e a quantificação de eventual verba sucumbencial deverão observar o título integral, a atuação profissional e o instrumento de parceria, sem presumir que honorários contratuais e sucumbenciais sejam a mesma verba.
 
 IX. DOS PEDIDOS
 
@@ -193,7 +202,7 @@ a) o recebimento e processamento desta liquidação de sentença por arbitrament
 
 b) a intimação da requerida, na pessoa de seu advogado constituído nos autos, para, querendo, apresentar manifestação e pareceres/documentos elucidativos, na forma do art. 510 do CPC;
 
-c) a intimação da Celesc para apresentar os documentos técnicos especificados no item 25, especialmente plantas, coordenadas, dimensões, registros de instalação, ordens de serviço, áreas de restrição e documentos relativos às estruturas implantadas no imóvel;
+c) a intimação da Celesc para apresentar os documentos técnicos especificados no item 26, especialmente plantas, coordenadas, dimensões, registros de instalação, ordens de serviço, áreas de restrição e documentos relativos às estruturas implantadas no imóvel;
 
 d) a nomeação de perito judicial com habilitação em engenharia de avaliações e experiência em avaliação de imóveis urbanos, preferencialmente com conhecimento técnico em imóveis protegidos pelo patrimônio cultural, facultada a indicação de profissional auxiliar ou apoio técnico especializado se necessário;
 
@@ -203,7 +212,7 @@ f) que sejam admitidos os quesitos iniciais apresentados nesta petição, facult
 
 g) que o perito apresente laudo com descrição do imóvel, identificação das estruturas, levantamento da área afetada, metodologia de avaliação, cenários comparativos, dados de mercado, memória de cálculo e discriminação dos componentes indenizatórios, esclarecendo expressamente como evita eventual dupla contagem;
 
-h) que, concluída a prova, seja fixado por decisão judicial o valor da indenização material devida pela Celesc, com observância dos critérios do título: correção monetária pelo INPC desde a data de instalação dos postes e juros de mora de 1% ao mês desde a citação;
+h) que, concluída a prova, seja fixado por decisão judicial o valor da indenização material devida pela Celesc, com observância dos critérios do título: correção monetária pelo INPC desde a data de instalação dos postes e juros de mora de 1% ao mês desde a citação, após confirmação das respectivas datas;
 
 i) que, após a definição do quantum, seja encerrada a liquidação e facultado aos autores requerer o cumprimento definitivo da sentença, na forma dos arts. 513 e 523 do CPC, mediante apresentação de memória discriminada e atualizada;
 
@@ -227,13 +236,13 @@ OAB/SC 36.983
 DOCUMENTOS A CONFERIR/JUNTAR COM A PETIÇÃO
 
 1. Procuração atualizada de Olindo e Cecília a Thiago, com poderes adequados para a fase de liquidação e cumprimento.
-2. Certidão de trânsito em julgado do acórdão da apelação e dos embargos de declaração, com data e evento.
+2. Certidão de trânsito em julgado do STJ: processo recursal, evento 109, CERTTRAN25, trânsito em 24/10/2025; conferir também anotação de baixa definitiva do TJSC no evento 111, de 30/10/2025.
 3. Inteiro teor da sentença, do acórdão da apelação e do acórdão dos embargos de declaração.
 4. Decreto Municipal nº 8.830/2008 e certidão/documento municipal atualizado sobre o tombamento.
 5. Matrícula atualizada do imóvel, cadastro imobiliário, planta, levantamento topográfico e fotografias atuais e históricas.
 6. Laudo pericial do evento 84 dos autos originários, especialmente plantas, fotografias, medidas e conclusões sobre a localização das estruturas.
-7. Documentos que demonstrem a data exata da instalação dos postes.
-8. Certidão ou comprovante da data da citação da Celesc.
+7. Documentos que demonstrem a data exata da instalação dos postes, especialmente ordens de serviço, registros de execução, cadastro patrimonial e histórico de manutenção da Celesc. O laudo do evento 84 apenas delimitou o intervalo entre maio/2008 e março/2012 e registrou relato de dezembro/2010.
+8. Cópia integral do AR do evento 16 (AR nº AR284402196TJS), com a data efetiva de entrega à Celesc; o PDF analisado registra juntada em 22/08/2014 e situação “cumprido”, mas não exibe a imagem do AR.
 9. Instrumento de parceria de 21/02/2022, assinado por Daiane, Thiago, Olindo e Cecília.
 10. Contrato direto de honorários de 23/04/2026, somente se assinado e conferido.
 11. Notificação extrajudicial e comprovante de entrega, somente após conferência do teor e da efetiva ciência da destinatária.
@@ -244,10 +253,10 @@ NOTAS TÉCNICAS PARA REVISÃO FINAL
 
 - O acórdão da apelação foi julgado em 28/09/2023; o documento eletrônico transcrito registra assinatura em 05/10/2023. Isso não corresponde à data do trânsito em julgado.
 - O acórdão dos embargos fixou INPC desde a instalação dos postes e juros de 1% ao mês desde a citação. Não substituir esses critérios por índices ou taxas diferentes sem prévia análise de eventual decisão superveniente e dos limites da coisa julgada.
-- O acórdão registra janeiro de 2011 como mês de instalação. A data exata deve ser extraída dos autos/laudo; não inventar dia.
+- O laudo do evento 84 não confirma tecnicamente dezembro/2010. Seu item 6.3.2 limita a instalação ao intervalo maio/2008 a março/2012, e o item 6.3.3 registra dezembro/2010 como relato de Elenir Maria Scardueli Gurgel. A data deve ser apurada prioritariamente com os registros da Celesc e, se persistir a incerteza, definida pelo Juízo com base no conjunto probatório.
 - O título reconhece danos materiais relacionados à diminuição da área disponível e à desvalorização do imóvel. Não formular pedido autônomo de danos morais, dano estético, dano à imagem ou outras rubricas não reconhecidas.
-- A perícia não pode rediscutir a responsabilidade da Celesc nem a possibilidade de remoção; deve quantificar o prejuízo reconhecido.
+- A perícia não pode rediscutir a responsabilidade da Celesc nem a conversão em perdas e danos; deve quantificar o prejuízo reconhecido. Não deve incluir como dano da Celesc os 2.541,00 m² atribuídos pelo laudo à retificação de área de 2009, nem efeitos do alargamento viário, da servidão de pedestres ou do deslocamento de cercas, salvo demonstração específica de nexo causal com a intervenção objeto do título.
 - A notificação à advogada anterior não é requisito da liquidação e não deve ocupar espaço desnecessário na narrativa dirigida à Celesc. Sua juntada deve ser decidida após exame de conteúdo, prova de entrega e pertinência.
 - O contrato de honorários não altera a titularidade do crédito indenizatório dos autores nem cria obrigação contratual para a Celesc. O destaque deve observar o art. 22, § 4º, da Lei 8.906/1994 e ser requerido em momento adequado.
 - A minuta do contrato de 23/04/2026 recuperada em texto não permitiu confirmar assinaturas. Não declarar que foi celebrado/assinado sem conferir o original.
-- A data do trânsito em julgado permanece pendente de confirmação no eproc. Não protocolar com esse campo em aberto.
+- A data do trânsito em julgado está confirmada pela certidão do STJ: 24/10/2025. A data de citação efetiva e o marco de instalação continuam pendentes de comprovação documental específica.
