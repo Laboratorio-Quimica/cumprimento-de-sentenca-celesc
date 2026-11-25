@@ -210,7 +210,7 @@ e) que a perícia observe os limites objetivos do título e apure, sem duplicida
 
 f) que sejam admitidos os quesitos iniciais apresentados nesta petição, facultando-se às partes a apresentação de quesitos suplementares e indicação de assistentes técnicos no prazo legal;
 
-g) que o perito apresente laudo com descrição do imóvel, identificação das estruturas, levantamento da área afetada, metodologia de avaliação, cenários comparativos, dados de mercado, memória de cálculo e discriminação dos componentes indenizatórios, esclarecendo expressamente como evita eventual dupla contagem;
+g) que o perito apresente laudo com descrição do imóvel, identificação das estruturas, levantamento da área afetada, avaliação retrospectiva para a data de instalação (ou cenários retrospectivos, se a data exata não puder ser estabelecida), metodologia, dados de mercado, memória de cálculo e discriminação dos componentes indenizatórios, esclarecendo expressamente como evita dupla contagem e separa fatores externos à intervenção da Celesc, especialmente retificação de área e projeto de alargamento viário;
 
 h) que, concluída a prova, seja fixado por decisão judicial o valor da indenização material devida pela Celesc, com observância dos critérios do título: correção monetária pelo INPC desde a data de instalação dos postes e juros de mora de 1% ao mês desde a citação, após confirmação das respectivas datas;
 
